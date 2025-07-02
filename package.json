@@ -1,0 +1,13 @@
+{
+  "name": "octopus-demo",
+  "version": "1.0.0",
+  "description": "Simple Node.js script to call Octopus Energy API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
